@@ -1,0 +1,36 @@
+Annotation Guidelines:
+
+General Principles:
+
+* Review each video from beginning to end before finalizing annotations.
+* Describe only actions that are directly visible or clearly audible.
+* Record meaningful changes in activity.
+* Use approximate timestamps consistently.
+* Keep descriptions concise, specific, and objective.
+* Describe events in chronological order.
+* Avoid assumptions about identity, emotions, intentions, or information that cannot be confirmed from the footage.
+* Record uncertainty rather than guessing.
+* Maintain consistent labels and descriptions across videos.
+
+Person Tracking:
+
+* Use a separate track for each individual person.
+* Maintain the same track for the same person throughout the video.
+* Keep bounding boxes around the relevant subject.
+* Review frames for tracking consistency.
+
+AI Evaluation:
+
+* AI-generated descriptions are compared against the original video and human annotations.
+* Outputs are classified as:
+* Accurate
+* Partially Accurate
+* Inaccurate
+* Errors may include:
+* Incorrect timestamp
+* Incorrect person count
+* Incorrect action
+* Missing action
+* Unsupported inference
+* Incorrect subject attribution
+* Incorrect sequence
