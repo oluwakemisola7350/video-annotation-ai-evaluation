@@ -1,0 +1,10 @@
+Video_ID,Start Time,End Time,Person/Object,Action,Description,Confidence,Notes
+Video 01,00:00,00:07,Woman,Walking + Phone Use,A woman wearing a face mask and glasses walks forward while operating a smartphone.,High,The woman is walking while using the phone.
+Video 01,00:07,00:20,Woman,Phone Transfer,The woman removes her hand from her pocket and transfers the smartphone from her right hand to her left hand while continuing to walk.,High,Clear hand and phone movement at approximately 00:07.
+Video 02,00:00,00:02,Woman + Man,Appearance,A woman and a man appear in an office-like setting.,High,Both people become visible around 00:01
+Video 02,00:02,00:06,Woman + Man,Handshake,The woman and man walk toward each other and shake hands.,High,Handshake is visible through approximately 00:06.
+Video 03,00:00,00:06,Four People,Dancing,"Four people, consisting of two women and two men, are visible dancing.",High,Four people are visible in the scene.Four people are visible in the scene.
+Video 03,00:06,00:10,Woman In Black,Movement + Dancing,The woman in black who was positioned toward the back moves toward the front of the group and continues dancing.,High,Movement towards the front occurs at 00:06.
+,,,,,,,
+,,,,,,,
+,,,,,,z,
