@@ -1,0 +1,10 @@
+Video_ID,AI Model,Video Summary,Start Time,End Time,AI Action Description,Confidence
+Video 01,Gemini,A person wearing a face mask and glasses walks forward while holding and interacting with a smartphone.,00:00,00:05,A person wearing a face mask walks slowly forward while holding a smartphone in one hand with their other hand in their jacket.,High
+Video 01,Gemini,A person wearing a face mask and glasses slowly walks forward while holding and interacting with a smartphone.,00:05,00:10,The person brings their other hand up to interact with the smartphone screen while continuing to walk forward.,High
+Video 01,Gemini,A person wearing a face mask and glasses walks forward while holding and interacting with a smartphone.,00:10,00:20,The person continues walking forward while looking down at the smartphone in their hand.,High
+Video 02,Gemini,Two people in professional attire walk towards each other in front of a window and shake hands.,00:00,00:01,An empty room is shown with a large window and horizontal blinds.,High
+Video 02,Gemini,Two people in professional attire walk towards each other in front of a window and shake hands.,00:01,00:02,Two people enter the frame from opposite sides and walk towards each other.,High
+Video 02,Gemini,Two people in professional attire walk towards each other in front of a window and shake hands.,00:02,00:05,"Two people reach out, shake hands and stand facing each other.",High
+Video 03,Gemini,Three people dance together in front of a colorful lighting background.,00:00,00:01,"Three people dance, with the person in the center moving their arms up and down while the two people behind move their arms and sway to the rhythm.",High
+Video 03,Gemini,Three people dance together in front of a colorful lighting background.,00:01,00:03,The central person extends their arms outward to the other sides while continuing to dance.,High
+Video 03,Gemini,The central person extends their arms outward to the other sides while continuing to dance.,00:03,00:06,The central person places their hands on their hips and sways while the other two people continue dancing behind them.,High
